@@ -1,0 +1,88 @@
+//
+// Google font - Lexend
+//
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Lexend:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+//
+//  Google font : Lexend
+//
+
+@font-face {
+    font-family: "Lexend-Bold";
+    src: url("../../fonts/Lexend-Bold.eot");
+    src: local('Lexend Bold'), url("../../fonts/Lexend-Bold.woff") format("woff");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Lexend-Black";
+    src: url("../../fonts/Lexend-Black.eot");
+    src: local('Lexend Black'), url("../../fonts/Lexend-Black.woff") format("woff");
+    font-weight: 900;
+}
+
+
+@font-face {
+    font-family: "Lexend-ExtraBold";
+    src: url("../../fonts/Lexend-ExtraBold.eot");
+    src: local('Lexend ExtraBold'), url("../../fonts/Lexend-ExtraBold.woff") format("woff");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "Lexend-ExtraLight";
+    src: url("../../fonts/Lexend-ExtraLight.eot");
+    src: local('Lexend ExtraLight'), url("../../fonts/Lexend-ExtraLight.woff") format("woff");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "Lexend-Light";
+    src: url("../../fonts/Lexend-Light.eot");
+    src: local('Lexend Light'), url("../../fonts/Lexend-Light.woff") format("woff");
+    font-weight: 300;
+}
+
+
+@font-face {
+    font-family: "Lexend-Medium";
+    src: url("../../fonts/Lexend-Medium.eot");
+    src: local('Lexend Medium'), url("../../fonts/Lexend-Medium.woff") format("woff");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "Lexend-Regular";
+    src: url("../../fonts/Lexend-Regular.eot");
+    src: local('Lexend Regular'), url("../../fonts/Lexend-Regular.woff") format("woff");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Lexend-SemiBold";
+    src: url("../../fonts/Lexend-SemiBold.eot");
+    src: local('Lexend SemiBold'), url("../../fonts/Lexend-SemiBold.woff") format("woff");
+    font-weight: 600;
+}
+@font-face {
+    font-family: "Lexend-Thin";
+    src: url("../../fonts/Lexend-Thin.eot");
+    src: local('Lexend Thin'), url("../../fonts/Lexend-Thin.woff") format("woff");
+    font-weight: 100;
+}
+//@font-face {
+  //  font-family: "hkgrotesk";
+   // src: url("../../fonts/hkgrotesk-semibold.eot");
+  //  src: local('hkgrotesk semibold'), url("../../fonts/hkgrotesk-semibold.woff") format("woff");
+  //  font-weight: 600;
+//}
+// @font-face {
+//     font-family: "hkgrotesk";
+//     // src: url("../../fonts/hkgrotesk-bold.eot");
+//     src: url("../../fonts/hkgrotesk-bold.eot");
+//     src: local('hkgrotesk bold'), url("../../fonts/hkgrotesk-bold.woff") format("woff");
+//     font-weight: 700;
+// }
